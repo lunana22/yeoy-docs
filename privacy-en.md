@@ -1,9 +1,9 @@
-# Subsbook Privacy Policy
+# Subs Pocket Privacy Policy
 
 **Last updated: 2026-07-20**
 **Effective date: 2026-06-26**
 
-Subsbook (the "App") values your privacy and processes only the minimum information necessary. The App has **no developer-operated server and no in-app account system**. Your data is stored on your device, and only if you choose to, it is backed up and synced to **your own cloud account (iCloud or Google Drive)**. No third party — including the developer — can access your data.
+Subs Pocket (the "App") values your privacy and processes only the minimum information necessary. The App has **no developer-operated server and no in-app account system**. Your data is stored on your device, and only if you choose to, it is backed up and synced to **your own cloud account (iCloud or Google Drive)**. No third party — including the developer — can access your data.
 
 ---
 
