@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "presets": [
+    {
+      "id": "preset:netflix",
+      "name": "넷플릭스",
+      "color": "#E50914",
+      "categoryId": "preset:streaming",
+      "logoUrl": null
+    },
+    {
+      "id": "preset:spotify",
+      "name": "스포티파이",
+      "color": "#1DB954",
+      "categoryId": "preset:music",
+      "logoUrl": null
+    },
+    {
+      "id": "preset:youtube",
+      "name": "유튜브 프리미엄",
+      "color": "#FF0000",
+      "categoryId": "preset:streaming",
+      "logoUrl": null
+    },
+    {
+      "id": "preset:disney",
+      "name": "디즈니+",
+      "color": "#113CCF",
+      "categoryId": "preset:streaming",
+      "logoUrl": null
+    },
+    {
+      "id": "preset:applemusic",
+      "name": "애플 뮤직",
+      "color": "#FA243C",
+      "categoryId": "preset:music",
+      "logoUrl": null
+    },
+    {
+      "id": "preset:watcha",
+      "name": "왓챠",
+      "color": "#FF0558",
+      "categoryId": "preset:streaming",
+      "logoUrl": null
+    },
+    {
+      "id": "preset:tving",
+      "name": "티빙",
+      "color": "#FF153C",
+      "categoryId": "preset:streaming",
+      "logoUrl": null
+    },
+    {
+      "id": "preset:coupang",
+      "name": "쿠팡 와우",
+      "color": "#D70019",
+      "categoryId": "preset:shopping",
+      "logoUrl": null
+    },
+    {
+      "id": "preset:wavve",
+      "name": "웨이브",
+      "color": "#1351F9",
+      "categoryId": "preset:streaming",
+      "logoUrl": null
+    },
+    {
+      "id": "preset:laftel",
+      "name": "라프텔",
+      "color": "#816BFF",
+      "categoryId": "preset:streaming",
+      "logoUrl": null
+    },
+    {
+      "id": "preset:appletv",
+      "name": "애플 TV+",
+      "color": "#1C1C1E",
+      "categoryId": "preset:streaming",
+      "logoUrl": null
+    },
+    {
+      "id": "preset:amazonprime",
+      "name": "아마존 프라임",
+      "color": "#00A8E1",
+      "categoryId": "preset:streaming",
+      "logoUrl": null
+    },
+    {
+      "id": "preset:melon",
+      "name": "멜론",
+      "color": "#00CD3C",
+      "categoryId": "preset:music",
+      "logoUrl": null
+    },
+    {
+      "id": "preset:genie",
+      "name": "지니뮤직",
+      "color": "#2C90F5",
+      "categoryId": "preset:music",
+      "logoUrl": null
+    },
+    {
+      "id": "preset:youtubemusic",
+      "name": "유튜브 뮤직",
+      "color": "#FF0000",
+      "categoryId": "preset:music",
+      "logoUrl": null
+    },
+    {
+      "id": "preset:chatgpt",
+      "name": "ChatGPT Plus",
+      "color": "#10A37F",
+      "categoryId": "preset:ai",
+      "logoUrl": null
+    },
+    {
+      "id": "preset:claude",
+      "name": "클로드",
+      "color": "#D97757",
+      "categoryId": "preset:ai",
+      "logoUrl": null
+    },
+    {
+      "id": "preset:naverplus",
+      "name": "네이버플러스 멤버십",
+      "color": "#03C75A",
+      "categoryId": "preset:shopping",
+      "logoUrl": null
+    },
+    {
+      "id": "preset:baeminclub",
+      "name": "배민클럽",
+      "color": "#2AC1BC",
+      "categoryId": "preset:shopping",
+      "logoUrl": null
+    },
+    {
+      "id": "preset:kurly",
+      "name": "컬리멤버스",
+      "color": "#5F0080",
+      "categoryId": "preset:shopping",
+      "logoUrl": null
+    },
+    {
+      "id": "preset:icloud",
+      "name": "아이클라우드+",
+      "color": "#3693F3",
+      "categoryId": "preset:cloud",
+      "logoUrl": null
+    },
+    {
+      "id": "preset:googleone",
+      "name": "구글 원",
+      "color": "#4285F4",
+      "categoryId": "preset:cloud",
+      "logoUrl": null
+    },
+    {
+      "id": "preset:ridi",
+      "name": "리디셀렉트",
+      "color": "#1E9EFF",
+      "categoryId": "preset:books",
+      "logoUrl": null
+    }
+  ]
+}
