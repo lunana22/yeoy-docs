@@ -1,6 +1,6 @@
 # Subs Pocket Privacy Policy
 
-**Last updated: 2026-07-20**
+**Last updated: 2026-08-10**
 **Effective date: 2026-06-26**
 
 Subs Pocket (the "App") values your privacy and processes only the minimum information necessary. The App has **no developer-operated server and no in-app account system**. Your data is stored on your device, and only if you choose to, it is backed up and synced to **your own cloud account (iCloud or Google Drive)**. No third party — including the developer — can access your data.
@@ -80,4 +80,4 @@ This policy may be revised due to legal or service changes. Revisions will be an
 For privacy inquiries, please contact:
 
 - Developer: yeoyeong
-- Email: yeoyyeong@gmail.com
+- Email: contact@yeoy.cc

@@ -14,4 +14,4 @@ A simple, account-free subscription tracker — see this month's total and upcom
 
 문의사항이나 버그 제보는 이메일로 보내주세요. For questions or bug reports, contact:
 
-- **Email**: yeoyyeong@gmail.com
+- **Email**: contact@yeoy.cc
