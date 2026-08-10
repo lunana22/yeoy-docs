@@ -3,7 +3,7 @@
 **Last updated: 2026-08-10**
 **Effective date: 2026-06-26**
 
-Subs Pocket (the "App") values your privacy and processes only the minimum information necessary. The App has **no developer-operated server and no in-app account system**. Your data is stored on your device, and only if you choose to, it is backed up and synced to **your own cloud account (iCloud or Google Drive)**. No third party — including the developer — can access your data.
+Subs Pocket (the "App") values your privacy and processes only the minimum information necessary. The App has **no developer-operated server and no in-app account system**. Your data is stored on your device, and only if you choose to, it is backed up and synced to **your own cloud account (iCloud on iOS, Google Drive on Android)**. No third party — including the developer — can access your data.
 
 ---
 
@@ -26,7 +26,7 @@ The App does **not** collect:
 - Advertising identifiers, analytics, or tracking
 - Contacts, call logs, or other device data
 
-When you sign in with a Google account for Google Drive backup, the App only uses the access permission (token) needed for backup, and does not collect, store, or transmit your Google profile information (name, email, etc.).
+When you sign in with a Google account for Google Drive backup on Android, the App only uses the access permission (token) needed for backup, and does not collect, store, or transmit your Google profile information (name, email, etc.).
 
 ## 3. Device Permissions
 
@@ -54,10 +54,10 @@ The App accesses the internet only for:
 
 ## 6. Cloud Backup/Sync (Optional)
 
-Sync is off by default and runs only if you enable it. Either way, **data is stored only in your own cloud account, and the developer cannot access it.**
+Sync is off by default and runs only if you enable it. Either way, **data is stored only in your own cloud account, and the developer cannot access it.** The available method depends on your platform — **iOS supports iCloud only, and Android supports Google Drive only.**
 
-- **iCloud (iOS)**: stored in the iCloud key-value store tied to your Apple account, protected by Apple's security and terms. To remove: turn off sync in the App, then delete the App's data in iOS Settings → iCloud management.
-- **Google Drive**: after signing in with your Google account, data is stored only in Drive's **app-private hidden folder (appDataFolder)**. The App cannot access any other Drive files (scope: drive.appdata). To remove: turn off sync in the App, or go to Google Drive settings → Manage apps → "Delete hidden app data".
+- **iCloud (iOS only)**: stored in the iCloud key-value store tied to your Apple account. No separate sign-in or account creation is required. Protected by Apple's security and terms. To remove: turn off sync in the App, then delete the App's data in iOS Settings → iCloud management.
+- **Google Drive (Android only)**: on Android, after signing in with your Google account, data is stored only in Drive's **app-private hidden folder (appDataFolder)**. The App cannot access any other Drive files (scope: drive.appdata). To remove: turn off sync in the App, or go to Google Drive settings → Manage apps → "Delete hidden app data". **The iOS app does not include Google Drive backup or Google sign-in.**
 
 ## 7. Third-Party Sharing
 
